@@ -13,7 +13,7 @@ Scumblr is a Netflix open source project that allows performing periodic searche
 
 ## Requirements
 
-- Ubuntu Server 16.04
+- Ubuntu Server
 - install Openssh-server if not already installed
 	- $ sudo apt-get install openssh-server
 - Harden your Server if you have not already done so. Good instructions here:
