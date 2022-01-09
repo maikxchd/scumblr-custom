@@ -3,37 +3,11 @@
 Scumblr is a Netflix open source project that allows performing periodic searches and storing / taking actions on the identified results. While the project has been abandoned by Netflix, this small change to the system will be able to better suit the needs of Tech Companies searching for databreaches in sites like 4chan to RaidForums.
 
 # Table of Contents
-- Deploying Scumblr 2.0 as a Security Tool
-	- Search Providers
 - SETUP
-	- Requirements
-	- Follow Scumblr 2.0 Docs to build
-	- Follow Sketchy Docs to build
-	- Configure Scumblr to use Sketchy
-	- Creating Services
-        - Scumblr Service
-		- Sketchy Service
-	- Running Scumblr
-	- Running Sketchy
 - Automatic Syncing
 - Configuring Search Providers
 - Add keys and uncomment ones in use
-	- Google Custom Search Providers
-	- Facebook Search Provider
-	- Twitter Search Provider
-	- Pastebin Custom Search Provider
-	- 4chan and 8ch Custom Search Providers
-	- YouTube Search Provider
 - Starting it All
-
-## Search Providers
-
-- 4chan
-- 8ch
-- Onion (Tor based) Sites
-- Pastebin
-- Reddit
-
 
 # SETUP
 
