@@ -202,7 +202,7 @@ To run rake commands as root (not required), You will need to symlink rake to /u
 Copy this repo's custom search providers into Scumblr's lib directory. The instructions below will guide you through building the necessary APIs for each search provider.
 
 ```
-$ git clone https://github.com/maikxchd/Scumblr_Mod.git
+$ git clone https://github.com/maikxchd/scumblr_custom.git
 $ cp search\ providers/* /Scumblr/lib/
 ```
 
